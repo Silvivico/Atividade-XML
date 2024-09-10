@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ArrayOfUsuario xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Usuario>
+    <login>TESTE​</login>
+    <password>123​</password>
+  </Usuario>
+</ArrayOfUsuario>
